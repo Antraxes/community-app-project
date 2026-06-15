@@ -11,12 +11,12 @@ export default function Events() {
       style={[styles.container, { backgroundColor: colours.screenBackground }]}
     >
       <View>
-        <Button
+        {/* <Button
           title="Sign In"
           onPress={() => {
             router.replace("/(auth)/login");
           }}
-        />
+        /> */}
       </View>
     </SafeAreaView>
   );

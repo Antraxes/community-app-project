@@ -6,6 +6,8 @@ By Jackie Ryton
 
 Student ID: 24042461
 
+Github: https://github.com/Antraxes/community-app-project
+
 ## Introduction
 
 My initial ideas for an app that benefits a community originally stemmed from conversations I have had with people in my own life - finding LGBTQIA+ friends outside of social events that involve drinking can be difficult. In my own experience there are a few reasons for this:
@@ -34,15 +36,15 @@ And during development, I will be using react native APIs that help with making 
 
 #### First App - Lex
 
-![IMG_2344.png](IMG_2344.png)
+![notion-readme-images/IMG_2344.png](notion-readme-images/IMG_2344.png)
 
-![IMG_2345.png](IMG_2345.png)
+![notion-readme-images/IMG_2345.png](notion-readme-images/IMG_2345.png)
 
-![IMG_2346.png](IMG_2346.png)
+![notion-readme-images/IMG_2346.png](notion-readme-images/IMG_2346.png)
 
-![IMG_2347.png](IMG_2347.png)
+![notion-readme-images/IMG_2347.png](notion-readme-images/IMG_2347.png)
 
-![IMG_2348.png](IMG_2348.png)
+![notion-readme-images/IMG_2348.png](notion-readme-images/IMG_2348.png)
 
 Initial Reactions
 
@@ -50,21 +52,21 @@ Initial Reactions
 
 ![image.png](image.png)
 
-![image.png](image%201.png)
+![image.png](notion-readme-images/image%201.png)
 
 - The inclusion of a feed of posts people have made is nice, although it does make the app feel more like social media more akin to Instagram or Facebook
 - I love the concept of creating and joining events made by other people
 - The use of a map to show how far a user is from other people or events is interesting.
 
-![IMG_2364.png](IMG_2364.png)
+![notion-readme-images/IMG_2364.png](notion-readme-images/IMG_2364.png)
 
-![IMG_2363.png](IMG_2363.png)
+![notion-readme-images/IMG_2363.png](notion-readme-images/IMG_2363.png)
 
-![IMG_2362.png](IMG_2362.png)
+![notion-readme-images/IMG_2362.png](notion-readme-images/IMG_2362.png)
 
-![IMG_2361.png](IMG_2361.png)
+![notion-readme-images/IMG_2361.png](notion-readme-images/IMG_2361.png)
 
-![IMG_2360.png](IMG_2360.png)
+![notion-readme-images/IMG_2360.png](notion-readme-images/IMG_2360.png)
 
 From looking at reviews, it is clear that there is a lot of varied feedback on Lex:
 
@@ -77,25 +79,25 @@ From looking at reviews, it is clear that there is a lot of varied feedback on L
 
 ### Second App - Collective
 
-![IMG_2372.png](IMG_2372.png)
+![notion-readme-images/IMG_2372.png](notion-readme-images/IMG_2372.png)
 
-![IMG_2366.png](IMG_2366.png)
+![notion-readme-images/IMG_2366.png](notion-readme-images/IMG_2366.png)
 
-![IMG_2372.png](IMG_2372%201.png)
+![notion-readme-images/IMG_2372.png](notion-readme-images/IMG_2372%201.png)
 
-![IMG_2372.png](IMG_2372%202.png)
+![notion-readme-images/IMG_2372.png](notion-readme-images/IMG_2372%202.png)
 
-![IMG_2372.png](IMG_2372%203.png)
+![notion-readme-images/IMG_2372.png](notion-readme-images/IMG_2372%203.png)
 
-![IMG_2369.png](IMG_2369.png)
+![notion-readme-images/IMG_2369.png](notion-readme-images/IMG_2369.png)
 
-![IMG_2367.png](IMG_2367.png)
+![notion-readme-images/IMG_2367.png](notion-readme-images/IMG_2367.png)
 
-![IMG_2371.png](IMG_2371.png)
+![notion-readme-images/IMG_2371.png](notion-readme-images/IMG_2371.png)
 
-![IMG_2368.png](IMG_2368.png)
+![notion-readme-images/IMG_2368.png](notion-readme-images/IMG_2368.png)
 
-![IMG_2370.png](IMG_2370.png)
+![notion-readme-images/IMG_2370.png](notion-readme-images/IMG_2370.png)
 
 User reviews consistently suggest that the app’s recommendations on who users should follow and interact with are disproportionally gay men, which limits visibility for other queer identities within the community.
 
@@ -103,35 +105,35 @@ Reviewers also mention that it is harder to discover and connect with people fro
 
 The UI is mostly just black text over a white background, which is a good contrast for accessibility needs. Some components use small, dark-grey text with a light-grey background, but this still conforms to the WCAG as seen below:
 
-![image.png](image%202.png)
+![image.png](notion-readme-images/image%202.png)
 
 ### Third App - HER
 
 HER is a dating app designed specifically for the sapphic community. Sapphic is defined as trans women, cisgender women, and nonbinary people who are attracted to other sapphics. (DeVito et al., 2024) 
 
-![IMG_2353.png](IMG_2353.png)
+![notion-readme-images/IMG_2353.png](notion-readme-images/IMG_2353.png)
 
-![IMG_2376.png](IMG_2376.png)
+![notion-readme-images/IMG_2376.png](notion-readme-images/IMG_2376.png)
 
-![IMG_2377.png](IMG_2377.png)
+![notion-readme-images/IMG_2377.png](notion-readme-images/IMG_2377.png)
 
-![IMG_2355.png](IMG_2355.png)
+![notion-readme-images/IMG_2355.png](notion-readme-images/IMG_2355.png)
 
-![IMG_2356.png](IMG_2356.png)
+![notion-readme-images/IMG_2356.png](notion-readme-images/IMG_2356.png)
 
-![IMG_2354.png](IMG_2354.png)
+![notion-readme-images/IMG_2354.png](notion-readme-images/IMG_2354.png)
 
-![IMG_2357.png](IMG_2357.png)
+![notion-readme-images/IMG_2357.png](notion-readme-images/IMG_2357.png)
 
-![IMG_2382.png](IMG_2382.png)
+![notion-readme-images/IMG_2382.png](notion-readme-images/IMG_2382.png)
 
-![IMG_2381.png](IMG_2381.png)
+![notion-readme-images/IMG_2381.png](notion-readme-images/IMG_2381.png)
 
-![IMG_2380.png](IMG_2380.png)
+![notion-readme-images/IMG_2380.png](notion-readme-images/IMG_2380.png)
 
-![IMG_2379.png](IMG_2379.png)
+![notion-readme-images/IMG_2379.png](notion-readme-images/IMG_2379.png)
 
-![IMG_2378.png](IMG_2378.png)
+![notion-readme-images/IMG_2378.png](notion-readme-images/IMG_2378.png)
 
 Quite a lot of the reviews I found were negative, and they tend to have similar reasons.
 
@@ -183,7 +185,7 @@ To start with, I wanted to list out the main features/ideas I have for the app:
 
 I created some user personas during the development phase as a way for me to have a better view on the diversity of people who may use this app, and what their needs might be. I used a collection pack called Avatars by Pablo Stanley (Stanley, n.d.) which I used within the Blush plugin in Figma.
 
-![image.png](image%203.png)
+![image.png](notion-readme-images/image%203.png)
 
 Name: Aeris
 
@@ -199,7 +201,7 @@ Goals: Has recently moved to a new city for work and is looking for other queer 
 
 Needs: A way to find and meet up with queer people with similar interests
 
-![image.png](image%204.png)
+![image.png](notion-readme-images/image%204.png)
 
 Name: Georgina
 
@@ -215,7 +217,7 @@ Goals: Wants to find other queer people to exercise with at her local gym
 
 Needs: A platform where she can post an event that other queer people in the area can join
 
-![image.png](image%205.png)
+![image.png](notion-readme-images/image%205.png)
 
 Name: Michael
 
@@ -231,45 +233,120 @@ Goals: Has recently come out of the closet as a gay man and wants to meet people
 
 Needs: The ability to join events posted by other queer people 
 
-![image.png](image%206.png)
+![image.png](notion-readme-images/image%206.png)
 
-![image.png](image%207.png)
+![image.png](notion-readme-images/image%207.png)
 
 For the logo, I download an SVG file of an umbrella from [https://icon-sets.iconify.design/?query=umbrella](https://icon-sets.iconify.design/?query=umbrella). License states that no attribution is required, commercial use is allowed
 
 My initial sketches of the app include the loading screen, the login screen, and the account creation screen. I made these initial designs using Figma.
 
-![image.png](image%208.png)
+![image.png](notion-readme-images/image%208.png)
 
 I was fine with these for a start, but I felt it would make more intuitive sense for me to go straight into wireframes and prototyping within Figma. This way, I could get the base design down whilst also being able to showcase intended user flow easier.
 
-![image.png](image%209.png)
+![image.png](notion-readme-images/image%209.png)
 
 I also planned for what event posts will look like using figma. To start with, I came up with a quick design but I really disliked it 
 
-![image.png](image%2010.png)
+![image.png](notion-readme-images/image%2010.png)
 
 I instead opted to make the event card larger and more streamlined. 
 
-![image.png](image%2011.png)
+![image.png](notion-readme-images/image%2011.png)
 
 For the colour palette, I wanted to go for a pink theme whilst still following WCAG and so I used this generator [https://venngage.com/tools/accessible-color-palette-generator](https://venngage.com/tools/accessible-color-palette-generator)
 
-![image.png](image%2012.png)
+![image.png](notion-readme-images/image%2012.png)
 
-![image.png](image%2013.png)
-
-*Light mode*
-
-![image.png](image%2014.png)
+![image.png](notion-readme-images/image%2013.png)
 
 *Dark mode*
 
-![image.png](image%2015.png)
+![image.png](notion-readme-images/image%2014.png)
 
-During development, I used both react native and expo to create the app.
+![image.png](notion-readme-images/image%2015.png)
 
-This was my initial attempt at making a login screen. Whilst I like the colour schemes, it does still feel lacking in terms of polish. I will come back to styling once I’ve finished making all the initial pages I need.
+*Light mode*
+
+During development, I used both react native and expo to create the app. Setting up the project and understanding the routing system was made much easier by watching this tutorial: [https://www.youtube.com/watch?v=RdJhqaOIWn0&t=1377s](https://www.youtube.com/watch?v=RdJhqaOIWn0&t=1377s)
+
+This was my initial attempt at making a login screen and a signup screen (without styling). Whilst I like the colour schemes, it does still feel lacking in terms of polish. I will come back to styling once I’ve finished making all the initial pages I need.
+
+I also created a constants file to store colours of backgrounds and text depending on if dark or light mode is used:
+
+```tsx
+export const DarkmodeColours = {
+  screenBackground: "#8f405e",
+  borders: "#ffffff",
+  text: "#ffffff",
+  fadedText: "#ffc4da",
+  innerField: "#7b3e56",
+  umbrellaLogo: require("../../assets/images/umbrella-logo-white.png"),
+  cardDescription: "#673d4e",
+};
+
+export const LightmodeColours = {
+  screenBackground: "#ddbcc7",
+  borders: "#000000",
+  text: "#000000",
+  fadedText: "#430015",
+  innerField: "#cb95a7",
+  umbrellaLogo: require("../../assets/images/umbrella-logo.png"),
+  cardDescription: "#c9a2ae",
+};
+
+```
+
+![image.png](notion-readme-images/image%2016.png)
+
+![image.png](notion-readme-images/image%2017.png)
+
+![image.png](notion-readme-images/image%2018.png)
+
+![image.png](notion-readme-images/image%2019.png)
+
+Home
+
+![image.png](notion-readme-images/image%2016.png)
+
+The home feed contains a component I made called an EventCard, and utilises ScrollView to allow for scrolling through the feed.
+
+Sign Up
+
+![image.png](notion-readme-images/image%2020.png)
+
+The sign up screen. Pressing continue will take you to the home page
+
+Account Screen
+
+![image.png](notion-readme-images/image%2021.png)
+
+Login
+
+![image.png](notion-readme-images/image%2022.png)
+
+The login screen, users of the app can enter the app after logging in using username: developer password: password
+
+Map
+
+![image.png](notion-readme-images/image%2023.png)
+
+Loads up google maps in London. Have not yet added more functionality to this
+
+There is no functionality added to this screen as of yet.
+
+Here are the light mode versions:
+
+![image.png](notion-readme-images/image%2024.png)
+
+![image.png](notion-readme-images/image%2025.png)
+
+![image.png](notion-readme-images/image%2026.png)
+
+![image.png](notion-readme-images/image%2027.png)
+
+![image.png](notion-readme-images/image%2028.png)
 
 References
 
